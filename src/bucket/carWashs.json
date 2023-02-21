@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Автомойка Intarial",
+    "price": 115,
+    "url": "https://i.imgur.com/sSHirCY.png",
+    "distance": 1948,
+    "rating": 4.9,
+    "advertisement": true
+  },
+  {
+    "name": "Автомойка Лояльность",
+    "price": 184,
+    "url": "https://i.imgur.com/B7UYnIg.png",
+    "distance": 181,
+    "rating": 2.3,
+    "advertisement": false
+  },
+  {
+    "name": "Автомойка Борд",
+    "price": 500,
+    "url": "https://i.imgur.com/sSHirCY.png",
+    "distance": 983,
+    "rating": 4.6,
+    "advertisement": false
+  },
+  {
+    "name": "Автомойка",
+    "price": 200,
+    "url": "https://i.imgur.com/B7UYnIg.png",
+    "distance": 420,
+    "rating": 3.1,
+    "advertisement": false
+  }
+]
